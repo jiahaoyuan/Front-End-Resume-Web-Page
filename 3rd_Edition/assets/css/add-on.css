@@ -1,0 +1,86 @@
+
+
+.img-fluid{
+  width:100%;
+  height:200px;
+}
+
+.img-website{
+  width:100%;
+  height:auto;
+  position: relative;
+  //opacity: .9;
+
+}
+
+#config-panel{
+  position: fixed;
+}
+
+.Icon{
+  border-color: #fff;
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 50%;
+  width: auto;
+  height: 150px;
+}
+.Backgroundlocation{
+
+    opacity: .7;
+    left: 20px;
+    position: absolute;
+}
+
+.White{
+  color: #fff;
+}
+
+.Gray{
+  color: #404040;
+}
+
+
+.Shenzhen{
+  background-image: url(../images/Shenzhen.jpg);
+}
+
+.Jiahao_Yuan_Hiking{
+   background-image: url(../images/Jiahao_Yuan_Hiking.jpg);
+}
+
+.Villanova{
+  background-image: url(../images/Villanova.jpg);
+}
+
+.Oxford{
+  background-image: url(../images/Oxford.jpg);
+}
+
+.ETH{
+  background-image: url(../images/ETH_Zurich.jpg);
+}
+.background{
+
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    /*background-size: cover;*/
+    background-attachment: fixed;
+
+    background-position: center center;
+
+    width: 100%;
+    height: 400px;
+}
+
+.profile-image {
+      width: 160px;
+  height: 160px;
+    border-color: rgb(238, 238, 238);
+    border-style: solid;
+    border-width: 3px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+  }
